@@ -16,7 +16,7 @@
 
 </div>
 
-<br />
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/kente-divider.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Ship, observe, fix, simplify, and keep learning.
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/kente-divider.svg" width="100%" alt="" />
 
 ## 02 · WHAT I BUILD
 
@@ -86,7 +86,7 @@ Ship, observe, fix, simplify, and keep learning.
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/kente-divider.svg" width="100%" alt="" />
 
 ## 03 · SELECTED WORK
 
@@ -124,7 +124,7 @@ Built as part of my ongoing experimentation with useful web products, interfaces
 
 [View repository](https://github.com/Kryptonian-code/portfolio)
 
----
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/kente-divider.svg" width="100%" alt="" />
 
 ## 04 · TECHNOLOGY
 
@@ -152,7 +152,7 @@ Built as part of my ongoing experimentation with useful web products, interfaces
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/kente-divider.svg" width="100%" alt="" />
 
 ## 05 · HOW I THINK ABOUT SOFTWARE
 
@@ -184,7 +184,7 @@ Built as part of my ongoing experimentation with useful web products, interfaces
 
 I am less interested in building software that looks impressive in a demo and more interested in software that remains useful after the demo is over.
 
----
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/kente-divider.svg" width="100%" alt="" />
 
 ## 06 · GITHUB
 
@@ -212,7 +212,7 @@ I am less interested in building software that looks impressive in a demo and mo
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/kente-divider.svg" width="100%" alt="" />
 
 ## 07 · FROM GHANA 🇬🇭
 
@@ -222,7 +222,7 @@ That means paying attention to things that can easily disappear when software is
 
 **Build locally. Think globally.**
 
----
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/kente-divider.svg" width="100%" alt="" />
 
 ## 08 · CURRENTLY BUILDING
 
@@ -261,7 +261,7 @@ Using AI where it improves speed without replacing engineering judgment.
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/kente-divider.svg" width="100%" alt="" />
 
 ## 09 · CONNECT
 
