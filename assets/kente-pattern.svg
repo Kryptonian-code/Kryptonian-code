@@ -1,0 +1,19 @@
+<svg width="1600" height="140" viewBox="0 0 1600 140" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <pattern id="weave" width="12" height="12" patternUnits="userSpaceOnUse">
+    <path d="M0 0H12M0 6H12M0 12H12M0 0V12M6 0V12M12 0V12" stroke="#F3E8C8" stroke-opacity=".07" stroke-width="1"/>
+  </pattern>
+  <pattern id="k" width="160" height="140" patternUnits="userSpaceOnUse">
+    <rect width="160" height="140" fill="#063B2D"/>
+    <rect width="160" height="140" fill="url(#weave)"/>
+    <rect x="0" y="0" width="40" height="20" fill="#D4A72C"/><rect x="40" y="0" width="40" height="20" fill="#9E2A2B"/><rect x="80" y="0" width="40" height="20" fill="#F3E8C8"/><rect x="120" y="0" width="40" height="20" fill="#101412"/>
+    <rect x="0" y="120" width="40" height="20" fill="#101412"/><rect x="40" y="120" width="40" height="20" fill="#F3E8C8"/><rect x="80" y="120" width="40" height="20" fill="#9E2A2B"/><rect x="120" y="120" width="40" height="20" fill="#D4A72C"/>
+    <path d="M0 20L20 40L0 60Z M40 20L60 40L40 60Z M80 20L100 40L80 60Z M120 20L140 40L120 60Z" fill="#D4A72C"/>
+    <path d="M20 60L40 80L20 100L0 80Z M60 60L80 80L60 100L40 80Z M100 60L120 80L100 100L80 80Z M140 60L160 80L140 100L120 80Z" fill="#9E2A2B"/>
+    <path d="M0 60L20 80L0 100Z M40 60L60 80L40 100Z M80 60L100 80L80 100Z M120 60L140 80L120 100Z" fill="#F3E8C8"/>
+    <rect x="0" y="58" width="160" height="4" fill="#101412"/>
+    <rect x="0" y="98" width="160" height="4" fill="#101412"/>
+  </pattern>
+</defs>
+<rect width="1600" height="140" fill="url(#k)"/>
+</svg>
