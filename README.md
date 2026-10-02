@@ -1,187 +1,298 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=KRYPTONIAN&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Digital%20Product%20Builder&descAlignY=60&descSize=18" width="100%" />
-
-<a href="https://github.com/Kryptonian-code">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+for+real-world+problems;Ghanaian+products%2C+business+systems%2C+and+SaaS;From+idea+to+working+product;Always+learning.+Always+building." alt="Typing introduction" />
-</a>
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/profile-header.svg" width="100%" alt="Kryptonian profile header" />
 
 <br />
 
-<a href="https://github.com/Kryptonian-code?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Kryptonian-code?tab=followers"><img src="https://img.shields.io/github/followers/Kryptonian-code?style=for-the-badge&label=Followers&color=238636" /></a>
-<a href="https://github.com/Kryptonian-code"><img src="https://komarev.com/ghpvc/?username=Kryptonian-code&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" /></a>
+<a href="https://github.com/Kryptonian-code?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117&color=238636" />
+</a>
+<a href="https://github.com/Kryptonian-code?tab=followers">
+  <img src="https://img.shields.io/github/followers/Kryptonian-code?style=for-the-badge&logo=github&logoColor=ffffff&label=FOLLOW&color=161B22" />
+</a>
+<a href="https://github.com/Kryptonian-code">
+  <img src="https://komarev.com/ghpvc/?username=Kryptonian-code&style=for-the-badge&color=238636&label=PROFILE+VIEWS" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+> **Software developer from Ghana building digital products around real problems.**
+
+**Product thinking · Business systems · SaaS · Web applications · Local-first technology**
 
 </div>
 
 ---
 
-## 👋 About Me
+## 01 · ABOUT
 
-I'm **Kryptonian**, a Ghanaian software developer focused on building practical digital products and business systems.
+I'm **Kryptonian**, a Ghanaian software developer and product builder.
 
-My work sits at the intersection of **software engineering, product thinking, and real-world business problems**. I enjoy taking an idea, breaking down the requirements, designing the system, and turning it into something people can actually use.
+I like the part of software development where a vague problem becomes a clear workflow, then a working system. My projects often focus on businesses and organisations that need practical software rather than another generic template.
 
-I particularly enjoy building products for the **Ghanaian and African market**, where local workflows, affordability, accessibility, and operational realities matter.
+My interests span **SaaS, business operations, education, church technology, property technology, e-commerce, and AI-assisted software**.
 
-### What I Build
-
-- Business management systems
-- SaaS products
-- Education technology
-- Church technology
-- Property technology
-- E-commerce systems
-- AI-assisted applications
-- Custom websites and digital platforms
-
----
-
-## 🚀 Selected Projects
+I care about three things:
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### Build for people
+
+Software should fit the way people actually work, not force them into an artificial workflow.
+
+</td>
+<td width="33%" valign="top">
+
+### Solve the real problem
+
+The feature list is secondary. Understanding the operational problem comes first.
+
+</td>
+<td width="33%" valign="top">
+
+### Keep improving
+
+Ship, observe, fix, simplify, and keep learning.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 02 · WHAT I BUILD
+
+<div align="center">
+
+| BUSINESS SYSTEMS | SAAS PRODUCTS | DIGITAL PLATFORMS |
+|:---:|:---:|:---:|
+| Operations | Multi-user workflows | Customer experiences |
+| Administration | Data & reporting | Web applications |
+| Finance workflows | Role-based systems | Self-service tools |
+
+</div>
+
+<br />
+
+<div align="center">
+
+**ChurchTech** &nbsp; • &nbsp; **EdTech** &nbsp; • &nbsp; **PropTech** &nbsp; • &nbsp; **E-commerce** &nbsp; • &nbsp; **AI Applications**
+
+</div>
+
+---
+
+## 03 · SELECTED WORK
 
 ### ⛪ ShepherdHub
+**Church management software built around the realities of Ghanaian churches.**
 
-**Church management software built for Ghanaian churches.**
+A product direction covering membership, administration, finance, communication, branches, and day-to-day church operations.
 
-Membership, church administration, finance, communication, branches, and operational workflows in one system.
+**Product:** [shepherdhubgh.store](https://shepherdhubgh.store)
 
-<a href="https://shepherdhubgh.store">View Product</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 GenieHub Realty
-
-**Property management and real-estate technology.**
-
-A Ghana-focused direction for simplifying property operations and helping real-estate businesses manage their workflows digitally.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 EduRise Ghana
-
-**Education technology and school management.**
-
-Focused on practical tools for schools, administration, student records, attendance, finance, staff operations, and reporting.
-
-</td>
-<td width="50%" valign="top">
+---
 
 ### 💍 WedQR Ghana
+**A browser-based wedding programme and QR sharing platform.**
 
-**Digital wedding experience platform.**
+Couples can create a wedding programme, preview it, generate a QR code, and share the experience with guests without requiring a native app or traditional backend.
 
-A Ghana-focused digital solution for modern wedding information and guest experiences.
+**Stack:** React · TypeScript · Vite · Tailwind CSS · QR generation · URL compression
 
-<a href="https://github.com/Kryptonian-code/WedQR-Ghana">View Repository</a>
-
-</td>
-</tr>
-</table>
+[View repository](https://github.com/Kryptonian-code/WedQR-Ghana)
 
 ---
 
-## 🧰 Technology
+### ✉️ MailCraft
+**A focused email/productivity project.**
 
-<div align="center">
+Built as part of my ongoing experimentation with useful web products, interfaces, and developer workflows.
 
-### Languages & Development
-
-<img src="https://skillicons.dev/icons?i=php,js,ts,react,html,css,mysql" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vite,tailwind,vscode,figma,photoshop" />
-
-</div>
+[View repository](https://github.com/Kryptonian-code/mailcraft)
 
 ---
 
-## 📊 GitHub Activity
+### 🌐 Portfolio
+**My personal web portfolio and professional digital presence.**
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kryptonian-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=238636&rank_icon=github" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kryptonian-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kryptonian-code&theme=github-dark-blue&hide_border=true&background=0D1117" width="70%" />
-
-</div>
+[View repository](https://github.com/Kryptonian-code/portfolio)
 
 ---
 
-## 🧠 How I Approach Building
-
-<table>
-<tr>
-<td align="center" width="20%"><strong>01</strong><br/>Understand</td>
-<td align="center" width="20%"><strong>02</strong><br/>Design</td>
-<td align="center" width="20%"><strong>03</strong><br/>Build</td>
-<td align="center" width="20%"><strong>04</strong><br/>Test</td>
-<td align="center" width="20%"><strong>05</strong><br/>Improve</td>
-</tr>
-</table>
-
-I care about more than getting code to run. The goal is to build systems that are **usable, maintainable, secure, and appropriate for the people and businesses they serve**.
-
----
-
-## 🌍 Building From Ghana
-
-I believe African software does not need to imitate products built somewhere else.
-
-Local businesses have different workflows, constraints, expectations, and opportunities. Good technology should understand those realities.
-
-That's a big part of what I want my work to represent.
-
-**Build locally. Think globally. Solve real problems.**
-
----
-
-## 🤝 Let's Connect
+## 04 · TECHNOLOGY
 
 <div align="center">
 
-<a href="https://github.com/Kryptonian-code">
-<img src="https://img.shields.io/badge/GitHub-Kryptonian--code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://shepherdhubgh.store">
-<img src="https://img.shields.io/badge/ShepherdHub-Visit%20Product-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/kryptonian-id.svg" width="700" alt="Kryptonian developer identity card" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Keep building.
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/animated-text.gif" width="500" alt="Animated developer text" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,react,html,css,mysql" alt="Languages and frameworks" />
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://skillicons.dev/icons?i=vite,tailwind,git,github,vscode,figma,photoshop" alt="Tools" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+**Frontend** · React · TypeScript · JavaScript · Vite · Tailwind CSS
+
+**Backend** · PHP · MySQL · REST APIs
+
+**Workflow** · Git · GitHub · VS Code · AI-assisted development
+
+**Design** · Figma · Photoshop · UI systems
+
+</div>
+
+---
+
+## 05 · HOW I THINK ABOUT SOFTWARE
+
+<div align="center">
+
+**PROBLEM**
+
+↓  
+
+**UNDERSTAND THE WORKFLOW**
+
+↓
+
+**DESIGN THE SYSTEM**
+
+↓
+
+**BUILD THE RIGHT FEATURES**
+
+↓
+
+**TEST WITH REAL USE CASES**
+
+↓
+
+**SIMPLIFY + IMPROVE**
+
+</div>
+
+I am less interested in building software that looks impressive in a demo and more interested in software that remains useful after the demo is over.
+
+---
+
+## 06 · GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kryptonian-code&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=238636&rank_icon=github" height="175" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kryptonian-code&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="175" alt="Top languages" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kryptonian-code&hide_border=true&background=0D1117&ring=58A6FF&fire=238636&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub streak" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 07 · FROM GHANA 🇬🇭
+
+I build with the Ghanaian context in mind.
+
+That means paying attention to things that can easily disappear when software is designed from a purely generic perspective: local business processes, affordability, connectivity, digital literacy, operational habits, and the difference between how software is supposed to be used and how people actually use it.
+
+**Build locally. Think globally.**
+
+---
+
+## 08 · CURRENTLY BUILDING
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Product systems**
+
+Turning operational problems into structured software products.
+
+</td>
+<td width="50%" valign="top">
+
+**Better engineering**
+
+Improving architecture, security, maintainability, and development workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**African technology**
+
+Exploring practical software opportunities across Ghana and the wider African market.
+
+</td>
+<td width="50%" valign="top">
+
+**AI-assisted development**
+
+Using AI where it improves speed without replacing engineering judgment.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 09 · CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Kryptonian-code">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Kryptonian-code/portfolio">
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" />
+</a>
+<a href="https://shepherdhubgh.store">
+<img src="https://img.shields.io/badge/SHEPHERDHUB-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/kryptonian-id.svg" width="720" alt="Kryptonian developer identity card" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+### BUILD SOMETHING USEFUL.
+
+<sub>Ghana 🇬🇭 · Software · Products · Systems</sub>
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/Kryptonian-code/Kryptonian-code/main/assets/profile-footer.svg" width="100%" alt="" />
 
 </div>
