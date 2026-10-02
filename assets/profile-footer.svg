@@ -1,8 +1,7 @@
 <svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="f" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0D1117"/><stop offset=".5" stop-color="#238636"/><stop offset="1" stop-color="#0D1117"/></linearGradient></defs>
-<rect width="1200" height="150" rx="24" fill="#0D1117"/>
-<path d="M0 75 Q150 10 300 75 T600 75 T900 75 T1200 75" fill="none" stroke="url(#f)" stroke-width="2"/>
-<text x="600" y="68" text-anchor="middle" fill="#F0F6FC" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="6">KEEP BUILDING</text>
-<text x="600" y="101" text-anchor="middle" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">GHANA · SOFTWARE · PRODUCTS · SYSTEMS</text>
-<circle cx="570" cy="127" r="3" fill="#238636"/><circle cx="600" cy="127" r="3" fill="#58A6FF"/><circle cx="630" cy="127" r="3" fill="#238636"/>
+<defs><pattern id="k" width="80" height="60" patternUnits="userSpaceOnUse"><rect width="80" height="60" fill="#063B2D"/><path d="M0 0L15 30L0 60 M30 0L45 30L30 60 M60 0L75 30L60 60" stroke="#D4A72C" stroke-width="12"/><path d="M15 0L30 30L15 60 M45 0L60 30L45 60 M75 0L90 30L75 60" stroke="#9E2A2B" stroke-width="8"/><path d="M0 30L15 45L30 30L45 45L60 30L75 45L90 30" stroke="#F3E8C8" stroke-width="3" fill="none"/></pattern></defs>
+<rect width="1200" height="150" rx="16" fill="#101412"/>
+<rect x="0" y="0" width="1200" height="56" rx="10" fill="url(#k)"/>
+<text x="600" y="102" text-anchor="middle" fill="#F3E8C8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="4">KEEP BUILDING. KEEP LEARNING.</text>
+<text x="600" y="127" text-anchor="middle" fill="#D4A72C" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3">GHANA • SOFTWARE • SYSTEMS • PRODUCTS</text>
 </svg>
