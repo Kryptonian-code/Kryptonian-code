@@ -1,18 +1,24 @@
-<svg width="1200" height="310" viewBox="0 0 1200 310" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
 <defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#0B3D2E"/></linearGradient>
-<pattern id="p" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#58A6FF" stroke-opacity=".055"/></pattern>
-<filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101412"/><stop offset=".55" stop-color="#063B2D"/><stop offset="1" stop-color="#0B241D"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#F3E8C8" stroke-opacity=".045"/></pattern>
+ <pattern id="mini" width="80" height="60" patternUnits="userSpaceOnUse">
+   <rect width="80" height="60" fill="#063B2D"/>
+   <rect width="80" height="60" fill="#101412" opacity=".16"/>
+   <path d="M0 0L15 30L0 60 M30 0L45 30L30 60 M60 0L75 30L60 60" stroke="#D4A72C" stroke-width="12"/>
+   <path d="M15 0L30 30L15 60 M45 0L60 30L45 60 M75 0L90 30L75 60" stroke="#9E2A2B" stroke-width="8"/>
+   <path d="M0 30L15 45L30 30L45 45L60 30L75 45L90 30" stroke="#F3E8C8" stroke-width="3" fill="none"/>
+ </pattern>
 </defs>
-<rect width="1200" height="310" rx="26" fill="url(#g)"/>
-<rect width="1200" height="310" rx="26" fill="url(#p)"/>
-<circle cx="1040" cy="90" r="130" fill="#238636" opacity=".12" filter="url(#glow)"/>
-<circle cx="160" cy="280" r="100" fill="#58A6FF" opacity=".08" filter="url(#glow)"/>
-<path d="M0 265 C240 210 330 330 560 255 S900 175 1200 245" fill="none" stroke="#58A6FF" stroke-opacity=".16" stroke-width="2"/>
-<path d="M0 280 C260 225 350 340 580 270 S920 195 1200 260" fill="none" stroke="#238636" stroke-opacity=".18" stroke-width="2"/>
-<text x="70" y="82" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="5">KRYPTONIAN / SOFTWARE DEVELOPER</text>
-<text x="70" y="152" fill="#F0F6FC" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="800" letter-spacing="2">BUILDING DIGITAL</text>
-<text x="70" y="215" fill="#58A6FF" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700">PRODUCTS THAT MATTER.</text>
-<text x="72" y="258" fill="#C9D1D9" font-family="Arial,Helvetica,sans-serif" font-size="18">Ghana 🇬🇭  ·  SaaS  ·  Business Systems  ·  Web Applications</text>
-<circle cx="1080" cy="214" r="7" fill="#238636"/><circle cx="1105" cy="214" r="7" fill="#58A6FF"/><circle cx="1130" cy="214" r="7" fill="#8B949E"/>
+<rect width="1200" height="330" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="18" fill="url(#grid)"/>
+<rect x="0" y="0" width="1200" height="18" rx="9" fill="url(#mini)"/>
+<rect x="0" y="312" width="1200" height="18" rx="9" fill="url(#mini)"/>
+<circle cx="1030" cy="155" r="170" fill="#D4A72C" opacity=".045"/>
+<circle cx="1030" cy="155" r="115" fill="none" stroke="#D4A72C" stroke-opacity=".18"/>
+<path d="M935 155L1030 60L1125 155L1030 250Z" fill="none" stroke="#D4A72C" stroke-opacity=".22" stroke-width="2"/>
+<text x="76" y="90" fill="#F3E8C8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="5">GHANA • SOFTWARE • PRODUCT</text>
+<text x="72" y="174" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="800" letter-spacing="2">KRYPTONIAN</text>
+<text x="78" y="216" fill="#D4A72C" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" letter-spacing="2">BUILDING DIGITAL PRODUCTS FOR REAL PROBLEMS</text>
+<text x="78" y="260" fill="#F3E8C8" fill-opacity=".72" font-family="Arial,Helvetica,sans-serif" font-size="16">Business systems  ·  SaaS  ·  Web applications  ·  Ghanaian-first thinking</text>
 </svg>
