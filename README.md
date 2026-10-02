@@ -49,15 +49,6 @@ Couples can create a wedding programme, preview it in real time, generate a QR c
 
 [View repository](https://github.com/Kryptonian-code/WedQR-Ghana)
 
----
-
-### Portfolio
-**My personal web portfolio and professional digital presence.**
-
-[View repository](https://github.com/Kryptonian-code/portfolio)
-
----
-
 ## Engineering
 
 **Frontend**  
@@ -113,7 +104,6 @@ That means paying attention to local business processes, affordability, connecti
 ## Connect
 
 - **GitHub:** [Kryptonian-code](https://github.com/Kryptonian-code)
-- **Portfolio:** [Kryptonian-code/portfolio](https://github.com/Kryptonian-code/portfolio)
 - **Featured product:** [ShepherdHub](https://shepherdhubgh.store)
 
 <br />
