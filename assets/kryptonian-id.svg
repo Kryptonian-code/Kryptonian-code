@@ -1,12 +1,13 @@
 <svg width="900" height="330" viewBox="0 0 900 330" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#161B22"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#238636"/><stop offset="1" stop-color="#58A6FF"/></linearGradient></defs>
-<rect x="2" y="2" width="896" height="326" rx="24" fill="url(#bg)" stroke="#30363D" stroke-width="3"/><rect x="30" y="30" width="8" height="270" rx="4" fill="url(#a)"/>
-<text x="70" y="76" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4">DEVELOPER IDENTITY / GHANA</text>
-<text x="70" y="128" fill="#F0F6FC" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="800">KRYPTONIAN</text>
-<text x="70" y="159" fill="#58A6FF" font-family="Arial,Helvetica,sans-serif" font-size="18">Software Developer · Product Builder</text><line x1="70" y1="191" x2="830" y2="191" stroke="#30363D"/>
-<text x="70" y="222" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">FOCUS</text>
-<text x="70" y="248" fill="#C9D1D9" font-family="Arial,Helvetica,sans-serif" font-size="16">SaaS · Business Systems · EdTech · PropTech · Web Apps</text>
-<text x="70" y="278" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">PRINCIPLE</text>
-<text x="70" y="303" fill="#C9D1D9" font-family="Arial,Helvetica,sans-serif" font-size="16">Build locally. Think globally. Solve real problems.</text>
-<text x="830" y="76" text-anchor="end" fill="#238636" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700">DEV / 001</text><circle cx="800" cy="117" r="25" fill="#238636" opacity=".13"/><circle cx="800" cy="117" r="9" fill="#238636"/>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101412"/><stop offset="1" stop-color="#063B2D"/></linearGradient><pattern id="k" width="80" height="40" patternUnits="userSpaceOnUse"><rect width="80" height="40" fill="#063B2D"/><path d="M0 0L10 20L0 40 M20 0L30 20L20 40 M40 0L50 20L40 40 M60 0L70 20L60 40" stroke="#D4A72C" stroke-width="8"/><path d="M10 0L20 20L10 40 M30 0L40 20L30 40 M50 0L60 20L50 40 M70 0L80 20L70 40" stroke="#9E2A2B" stroke-width="5"/></pattern></defs>
+<rect x="2" y="2" width="896" height="326" rx="22" fill="url(#b)" stroke="#D4A72C" stroke-opacity=".55" stroke-width="2"/>
+<rect x="2" y="2" width="896" height="42" rx="20" fill="url(#k)"/>
+<rect x="2" y="286" width="896" height="42" rx="20" fill="url(#k)"/>
+<circle cx="108" cy="164" r="57" fill="#101412" stroke="#D4A72C" stroke-width="3"/>
+<text x="108" y="184" text-anchor="middle" fill="#D4A72C" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800">K</text>
+<text x="205" y="102" fill="#D4A72C" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="4">GHANA • DEVELOPER • PRODUCT BUILDER</text>
+<text x="205" y="148" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800">KRYPTONIAN</text>
+<text x="205" y="179" fill="#F3E8C8" font-family="Arial,Helvetica,sans-serif" font-size="16">Software systems with practical business value.</text>
+<text x="205" y="220" fill="#F3E8C8" fill-opacity=".72" font-family="Arial,Helvetica,sans-serif" font-size="14">React  ·  TypeScript  ·  PHP  ·  MySQL  ·  Product thinking</text>
+<text x="205" y="248" fill="#F3E8C8" fill-opacity=".72" font-family="Arial,Helvetica,sans-serif" font-size="14">Ghanaian context  ·  real workflows  ·  continuous improvement</text>
 </svg>
